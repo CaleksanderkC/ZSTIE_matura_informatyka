@@ -1,0 +1,23 @@
+Id rasy; rasa
+1; Belgijska krajowa 
+2; Chester white 
+3; Duñska krajowa uszlachetniona 
+4; Duroc 
+5; Hampshire 
+6; Hereford 
+7; Holenderska krajowa 
+8; Niemiecka bia³a szlachetna 
+9; Niemiecka krajowa 
+10; Pietrain 
+11; Polska bia³a 
+12; Polsko-chiñska 
+13; Spotted Poland-China 
+14; Szwedzka krajowa uszlachetniona
+15; Szwedzka Yorkshire 
+16; Tamworth 
+17; Walijska 
+18; Wesseks 
+19; Wielka bia³a angielska 
+20; Wielka bia³a polska 
+21; Wielka czarna angielska 
+22; Z³otnicka bia³a

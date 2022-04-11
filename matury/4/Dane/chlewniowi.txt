@@ -1,0 +1,11 @@
+Id chlewniowego; Nazwisko; Imiê
+1; Bañbu³a; Antoni
+2; Golonka; Edward
+3; Kaban; Wincenty
+4; Knurewicz; Edgar
+5; Prosia³³o; Benigna
+6; Swinaj³³o; Kiejstut
+7; Œwinia-Myta; Izabella
+8; Trzoda; Walenty
+9; Wieprza³³o; Ignacy
+10; Wieprz-Jedzony; Eustachy
